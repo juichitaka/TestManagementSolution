@@ -1,5 +1,5 @@
 ## Test Case ID
-* N/A
+* 1 st
 ## Test Script Location
 * N/A
 ## Test Case Name
@@ -12,7 +12,7 @@
 ## Post-conditions
 * N/A
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* N/A
+* 
 ## Test Case Results (Pass / Fail / Not executed / Suspended)
 * N/A
 ---
@@ -27,4 +27,4 @@
 	* Actual Results
 		* N/A
 	* Pass / Fail / Not executed / Suspended
-		* N/A
+		* PASS
