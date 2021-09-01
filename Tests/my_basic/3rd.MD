@@ -14,7 +14,7 @@
 ## Date Tested (mm/dd/yy hh:mm:ss)
 * N/A
 ## Test Case Results (Pass / Fail / Not executed / Suspended)
-* N/A
+* Not executed
 ---
 ## Test Steps
 1. Step 1
