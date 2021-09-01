@@ -1,11 +1,13 @@
 ## Summary
-	* N/A
+	* 3rd
 	* N/A
 	* Pass: 0
 	* Fail: 0
-	* Not executed: 1
+	* Not executed: 2
 	* Suspended: 0
-	* Total: 1
+	* Total: 2
 ## Details
-1. 09/01/21 02:22:46
+1. 09/01/21 02:23:38
+	* Not executed
+2. 09/01/21 02:23:39
 	* Not executed
